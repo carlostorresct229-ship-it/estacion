@@ -1,0 +1,6 @@
+{
+  "name": "Estación Burguer POS & KDS",
+  "description": "Sistema POS, KDS de Cocina, Domicilios, Inventario, Turnos y Caja en tiempo real para Estación Burguer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
